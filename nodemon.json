@@ -1,0 +1,6 @@
+{
+    "env":{
+        "MONGODB_ATLAS_URL":"mongodb+srv://pwr:FBTtO50SnVPWtgLG@cluster0.h5zxu.mongodb.net/todolist-mean?retryWrites=true&w=majority",
+        "JWT_KEY":"your _strong_salt_secret"
+    }
+}
